@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Google-Fusion
-version:            0.04
+version:            0.05
 abstract:           Interface to the Google Fusion Tables API
 author:
     - Robin Clarke <perl@robinclarke.net>
