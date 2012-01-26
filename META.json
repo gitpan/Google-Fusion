@@ -51,5 +51,14 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.08"
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/robin13/Google-Fusion/issues"
+      },
+      "homepage" : "https://github.com/robin13/Google-Fusion",
+      "repository" : {
+         "url" : "https://github.com/robin13/Google-Fusion"
+      }
+   },
+   "version" : "0.09"
 }
